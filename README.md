@@ -1,9 +1,9 @@
 <!-- 插图占位：将图片上传到仓库 ./figures/ 并替换文件名 -->
 
-<!-- <figure>
+<figure>
     <img src="./Figures/Motivation.png" style="max-width:100%;height:auto;" />
     <figcaption></figcaption>
-</figure> -->
+</figure>
 
 
 # 面向计算机相关专业本科生的生物医学信息学课程
